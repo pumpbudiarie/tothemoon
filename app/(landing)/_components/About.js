@@ -49,23 +49,22 @@ const About = () => {
           <div className="p-4 h-full sm:p-6">
             <h3 className="font-mono text-lg sm:text-2xl text-[#33271e] tracking-widest text-justify sm:text-left">
               <p className="indent-12">
-                <span className="text-3xl font-bold">Dui</span>, affectionately
-                known as the{" "}
-                <span className="font-semibold italic">{'"meme dog"'}</span>{" "}
-                captured the hearts of millions worldwide with his one-of-a-kind
-                appearance and hilariously expressive face.{" "}
+                <span className="text-3xl font-bold">Budi Arie Setiadi</span>, a former
+                Indonesian minister and the chairman of{" "}
+                <span className="font-semibold italic">{'"Projo (a volunteer organization supporting Joko Widodo)"'}</span>{" "}
+                , has been
+                the subject of an online gambling scandal.{" "}
               </p>
               <p className="indent-12 mt-3">
-                His photos first went viral in early 2020, became an instant
-                internet sensation. People adored his quirky expressions, which
-                seemed to perfectly match countless relatable moods, turning{" "}
-                <span className=" italic font-bold">Dui</span> into a staple of
-                internet humor.
+                He was questioned by police investigators regarding his previous role
+                as Minister of Communications and Informatics
+                in relation to an {" "}
+                <span className=" italic font-bold">illegal gambling probe</span>.
               </p>
               <p className="indent-12 mt-3">
-                His lovable nature brought joy and laughter to a global audience
-                during challenging times, making him a symbol of light-hearted
-                fun.
+                Budi Arie has denied personal involvement and stated
+                his willingness to cooperate with the
+                investigation.
               </p>
             </h3>
           </div>
