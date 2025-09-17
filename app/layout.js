@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dúi (aka Nguyen Van Dui) | Solana",
-  description: "Dui is forever on Solana",
+  title: "Jail Budi Arie | Memecoin",
+  description: "Budi is forever on Solana",
 };
 
 export default function RootLayout({ children }) {
