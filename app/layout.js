@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Jail Budi Arie | Memecoin",
-  description: "Budi is forever on Solana",
+  title: "Jail $BUDIARIE | Memecoin",
+  description: "Budi Arie is forever on Solana",
 };
 
 export default function RootLayout({ children }) {
