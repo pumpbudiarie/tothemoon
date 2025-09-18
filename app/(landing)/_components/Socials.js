@@ -18,7 +18,7 @@ const cards = [
     icon: "Instagram",
   },
   {
-    link: "#",
+    link: "https://x.com/i/communities/1968492677957304627",
     title: "x community",
     icon: "X",
   },
