@@ -29,7 +29,7 @@ const About = () => {
       <div id="about" className="max-w-[85rem] px-4 py-10 sm:py-14 mx-auto">
         <div className="my-7">
           <h2 className="font-stopbuck text-6xl text-duis text-shadow text-center mt-14">
-            About Budi
+            About Budi Arie
           </h2>
           <h3 className="font-stopbuck text-2xl text-center italic text-black">
             {`(Budi Arie Setiadi)`}
@@ -72,15 +72,15 @@ const About = () => {
 
         <div className="mt-10 font-mono text-lg sm:text-2xl text-[#33271e] tracking-widest text-center">
           <p>
-            Unfortunately 🥹, <span className="text-3xl font-bold">Budi</span>{" "}
+            Unfortunately 🥹, <span className="text-3xl font-bold">Budi Arie (Judol) </span>{" "}
             will soon be arrested by the{" "}
             <span className="italic font-semibold">Corruption Eradication Committee</span>,
-            and sent to prison after $BUDI goes to the moon.
+            and sent to prison after $BUDIARIE goes to the moon.
           </p>
           <p className="text-4xl p-10">
             But now{" "}
             <span className="text-5xl font-bold underline decoration-duis">
-              Budi
+              Budi ARIE
             </span>{" "}
             is forever on{" "}
             <span className="text-5xl bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text font-bold">
