@@ -3,14 +3,19 @@ import LinkCardCircle from "@/components/LinkCardCircle";
 
 const cards = [
   {
+    link: "https://x.com/jailbudiarie",
+    title: "X",
+    icon: "X",
+  },
+  {
+    link: "https://x.com/i/communities/1968492677957304627",
+    title: "X Community",
+    icon: "X",
+  },
+  {
     link: "#",
     title: "telegram",
     icon: "Telegram",
-  },
-  {
-    link: "https://x.com/jailbudiarie",
-    title: "x",
-    icon: "X",
   },
   {
     link: "https://www.instagram.com/budiariesetiadi/",
@@ -18,19 +23,9 @@ const cards = [
     icon: "Instagram",
   },
   {
-    link: "https://x.com/i/communities/1968492677957304627",
-    title: "x community",
-    icon: "X",
-  },
-  {
     link: "#",
     title: "Tiktok",
     icon: "Tiktok",
-  },
-  {
-    link: "#",
-    title: "Facebook",
-    icon: "Facebook",
   },
 ];
 
