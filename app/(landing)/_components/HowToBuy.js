@@ -50,21 +50,21 @@ const HowToBuy = () => {
             it to your wallet.
           </span>
         </OrderCard>
-        <OrderCard order={3} title={"swap $Sol for $budi"} style={"-rotate-1"}>
+        <OrderCard order={3} title={"swap $Sol for $budiarie"} style={"-rotate-1"}>
           <span>
             Paste the token address (CA) into wallet and swap{" "}
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
               $SOL
             </span>{" "}
-            for <span className="font-extrabold text-2xl text-duis">$BUDI</span>
+            for <span className="font-extrabold text-2xl text-duis">$BUDIARIE</span>
             .{`There's zero taxes so you don’t need to worry.`}
           </span>
         </OrderCard>
-        <OrderCard order={4} title={"you're budi lovers!‍"} style={"rotate-2"}>
+        <OrderCard order={4} title={"you're budi arie lovers!‍"} style={"rotate-2"}>
           <span>
             Welcome to the <br />
             <span className="uppercase font-extrabold text-2xl underline decoration-duis">
-              Budi family
+              Budi Arie family
             </span>
             !
           </span>
